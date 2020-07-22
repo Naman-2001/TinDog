@@ -3,7 +3,7 @@ It has amazing components like carousel.
 
 ## Preview
 
-<img src="./images/tindog.png" width="700px"/>
+<img src="./images/tindog.png" width="700px" >
 
 ### Website is live on :
 
